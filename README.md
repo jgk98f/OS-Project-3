@@ -1,5 +1,5 @@
 # OS-Project-3
-This project builds upon project 2. For further details visit the file "README".
+This project builds upon project 2. For further details visit the file "README". This project features message passing as a way to tackle the mutual exclusion problem.
 
 ----------------------------------------------------------------------
 About the Author:
